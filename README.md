@@ -9,6 +9,8 @@ In this project These scripts focus on the data cleaning, exploratory data analy
 
 #### Vader Sentiment Analyser
 
+#### Word Cloud
+
 #### word embedding
 
 #### Word2Vec
